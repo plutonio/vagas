@@ -11,14 +11,14 @@ Vagas disponíveis em https://github.com/plutonio/vagas/issues
 
 ### Cadastrando uma vaga
 
-Abra uma **issue** e, no titulo desta _issue_, coloque o nome da cidade entre colchetes seguido do nome da vaga e nome da empresa.
+Abra uma **issue** e no titulo desta _issue_, coloque o nome da cidade entre colchetes seguido do nome da vaga e nome da empresa.
 
 Exemplo: `[Fortaleza] Estágio em Desenvolvimento Web na [NOME DA EMPRESA]`
 
 
 #### Importante
 
-Para evitar que possíveis candidatos enviem cvs para vagas já preenchidas, dê manutenção à sua issue, a cada 14 dias (2 semanas) coloque um comentário que continua procurando para a vaga ou feche a mesma comentando se a pessoa foi contratada através do nosso grupo ou por fora. Caso a issue passe de 14 dias e não tiver manutenção, a mesma será fechada por um moderador do repositório.
+Para evitar que possíveis candidatos enviem cvs para vagas já preenchidas, pedimos que os responsáveis pela vaga fechem a issue quando ela estiver finalizada.
 
 
 ### Outros repositórios de vagas
