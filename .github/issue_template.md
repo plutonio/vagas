@@ -1,74 +1,46 @@
+
 <!-- 
 ==================================================
-POR FAVOR, SÓ POSTE SE A VAGA FOR PARA FRONT-END!
+POR FAVOR, SÓ POSTE SE A VAGA FOR PARA ESTÁGIO em TI!
 
 Não faça distinção de gênero no título da vaga.
 
-Use: "Front-End Developer" ao invés de 
-"Desenvolvedor Front-End" \o/
+Use: "Estágio em DevOps" ao invés de 
+"Estagiário DevOps" \o/
 
-Exemplo: `[São Paulo] Front-End Developer na NOME DA EMPRESA`
+Exemplo: `[Fortaleza] Estágio em Automação de Testes na NOME DA EMPRESA`
 ==================================================
 -->
 
-## Descrição da vaga
+## Formação
 
-Projeto bazinga em NodeJS, etc.
+  Graduando em Ciências da Computação, Sistemas de Informação ou áreas afins.
 
-## Local
+## Atividades a serem desenvolvidas 
 
-Remoto ou Escritório, São Paulo - Vila Olímpia
+  Aprendizado e desenvolvimento web.
+  
 
-## Benefícios
+## Requisitos Obrigatórios:
 
-- Plano de saúde
-- Seguro de vida
-- VR de R$ X/dia
-- Auxílio creche
-- ...
+– Lógica de programação;
 
-#### Diferenciais
+– Estruturas de dados;
 
-- 2 horas de almoço
-- monte a sua máquina como desejar
-- frigobar sempre cheio :P
-- sala de jogos
-- ...
+– Orientação a objetos;
 
-## Requisitos
 
-**Obrigatórios:**
-- 3 anos de experiência com Node
-- 2 anos de experiência com mongodb e express
+## Competências Desejáveis:
 
-**Desejáveis:**
-- conhecimentos em ruby on rails
-- conhecimentos em C#
+– Inglês intermediário;
 
-**Diferenciais:**
-- projetos opensource
+– Java
 
-## Contratação
+- Pré-processadores
 
-PJ a combinar
 
-## Nossa empresa
+## Como se candidatar?
 
-Aqui na Corporação ACME somos líderes em...
+ Envie um e-mail com o seu currículo para email@email.com.br 
 
-## Como se candidatar
 
-Por favor envie um email para email@email.com.br com seu CV anexado - enviar no assunto: Vaga NodeJS
-
-## Labels
-
-- Alocado
-- CLT
-- Estágio
-- Freela
-- Júnior
-- PJ
-- Pleno
-- Remoto - Parcial
-- Remoto - Total
-- Sênior
