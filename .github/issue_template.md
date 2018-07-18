@@ -1,13 +1,11 @@
 <!-- 
 ==================================================
-POR FAVOR, SÓ POSTE SE A VAGA FOR PARA FRONT-END!
+POR FAVOR, SÓ POSTE SE A VAGA FOR PARA ESTÁGIO!
 
 Não faça distinção de gênero no título da vaga.
 
-Use: "Front-End Developer" ao invés de 
-"Desenvolvedor Front-End" \o/
 
-Exemplo: `[São Paulo] Front-End Developer na NOME DA EMPRESA`
+Exemplo: `[São Paulo] Estágio Front-End Developer na NOME DA EMPRESA`
 ==================================================
 -->
 
@@ -38,7 +36,7 @@ Remoto ou Escritório, São Paulo - Vila Olímpia
 ## Requisitos
 
 **Obrigatórios:**
-- 3 anos de experiência com Node
+- 1 anos de experiência com Node
 - 2 anos de experiência com mongodb e express
 
 **Desejáveis:**
@@ -50,7 +48,7 @@ Remoto ou Escritório, São Paulo - Vila Olímpia
 
 ## Contratação
 
-PJ a combinar
+ a combinar
 
 ## Nossa empresa
 
@@ -63,12 +61,10 @@ Por favor envie um email para email@email.com.br com seu CV anexado - enviar no 
 ## Labels
 
 - Alocado
-- CLT
 - Estágio
 - Freela
-- Júnior
-- PJ
-- Pleno
 - Remoto - Parcial
 - Remoto - Total
-- Sênior
+- Teste
+- Front-End
+- Back-End
