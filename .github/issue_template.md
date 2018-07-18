@@ -1,6 +1,5 @@
 
 <!-- 
-==================================================
 POR FAVOR, SÓ POSTE SE A VAGA FOR PARA ESTÁGIO em TI!
 
 Não faça distinção de gênero no título da vaga.
@@ -9,7 +8,6 @@ Use: "Estágio em DevOps" ao invés de
 "Estagiário DevOps" \o/
 
 Exemplo: `[Fortaleza] Estágio em Automação de Testes na NOME DA EMPRESA`
-==================================================
 -->
 
 ## Formação
@@ -34,7 +32,7 @@ Exemplo: `[Fortaleza] Estágio em Automação de Testes na NOME DA EMPRESA`
 
 – Inglês intermediário;
 
-– Java
+– Java 
 
 - Pré-processadores
 
