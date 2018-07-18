@@ -1,7 +1,6 @@
 <p align="center">
 <img src="https://github.com/plutonio/vagas/blob/master/plutonio.png" width="400" alt="Plutônio">
 </p>
-<h1 align="center">Vagas</h1>
 <p align="center">:star: Espaço para divulgação de vagas para estágios em TI.</p>
 
 # Vagas (Somente vagas de Estágio)
@@ -37,5 +36,5 @@ Para evitar que possíveis candidatos enviem cvs para vagas já preenchidas, dê
  
 ## Licença
 
-[MIT](/LICENSE) &copy; FrontendBR
+[MIT](/LICENSE) &copy; 
 
