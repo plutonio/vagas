@@ -1,5 +1,5 @@
 <p align="center">
-<img src="" width="400" alt="Plutônio">
+<img src="src/plutonio.png" width="400" alt="Plutônio">
 </p>
 <h1 align="center">Vagas</h1>
 <p align="center">:star: Espaço para divulgação de vagas para estágios em TI.</p>
