@@ -1,5 +1,5 @@
 <p align="center">
-<img src="src/plutonio.png" width="400" alt="Plutônio">
+<img src="https://github.com/plutonio/vagas/blob/master/plutonio.png" width="400" alt="Plutônio">
 </p>
 <h1 align="center">Vagas</h1>
 <p align="center">:star: Espaço para divulgação de vagas para estágios em TI.</p>
