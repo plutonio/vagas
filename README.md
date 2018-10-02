@@ -20,6 +20,12 @@ Exemplo: `[Fortaleza] Estágio em Desenvolvimento Web na [NOME DA EMPRESA]`
 
 Para evitar que possíveis candidatos enviem cvs para vagas já preenchidas, pedimos que os responsáveis pela vaga fechem a issue quando ela estiver finalizada.
 
+### Receber Vagas
+Para receber as vagas no seu email ou nas notificações do github, basta clicar no botão Watch e selecionar Watching.
+
+<p align="center">
+<img src="https://github.com/plutonio/vagas/blob/master/watching.png" width="400" alt="Watching">
+</p>
 
 ### Outros repositórios de vagas
 
